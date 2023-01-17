@@ -1,4 +1,4 @@
-## Teo Dimension Array
+## Two Dimension Array
 
 ### Description
 
